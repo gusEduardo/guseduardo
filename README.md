@@ -1,7 +1,7 @@
 ## Oi,
 🇧🇷 </br>
 Eu sou o Gustavo, </br>
-Estou atualmente estudando **Sistemas de Informação** na UniFOA - VR. Minha história com a tecnologia começou quando tinha 6 ou 7 anos, com uma curiosidade por design de site <sup>(no bloco de notas)</sup> e jogos. Depois de cursar **Modelagem 3D para Jogos e Animações** no Canadá, encontrei minha vocação na interseção entre o design e o desenvolvimento.
+Estou atualmente estudando **Sistemas de Informação** na UniFOA - VR. Minha história com a tecnologia começou quando tinha 6 ou 7 anos, com uma curiosidade por web design e html <sup>(no bloco de notas)</sup> e jogos. Depois de cursar **Modelagem 3D para Jogos e Animações** no Canadá, encontrei minha vocação na interseção entre o design e o desenvolvimento.
 
 🇬🇧 </br>
 I'm Gustavo, </br>

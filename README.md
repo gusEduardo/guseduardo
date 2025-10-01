@@ -9,7 +9,7 @@ I'm currently studying **Information Systems** at UniFOA - VR. My journey with t
 
 ## Habilidades & Ferramentas | Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,nodejs,vscode,git,figma,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,nodejs,vscode,github,figma,ps,ai)](https://skillicons.dev)
 
 <!--
 **gusEduardo/guseduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

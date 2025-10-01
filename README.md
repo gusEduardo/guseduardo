@@ -1,11 +1,11 @@
 ## Oi,
 🇧🇷 </br>
 Eu sou o Gustavo, </br>
-Estou atualmente estudando **Sistemas de Informação** na UniFOA - VR. Minha história com a tecnologia começou quando tinha 6 ou 7 anos, com uma curiosidade por design de site (no bloco de notas) e jogos. Depois de cursar Modelagem 3D para Jogos e Animações no Canadá, encontrei minha vocação na interseção entre o design e o desenvolvimento.
+Estou atualmente estudando **Sistemas de Informação** na UniFOA - VR. Minha história com a tecnologia começou quando tinha 6 ou 7 anos, com uma curiosidade por design de site <sup>(no bloco de notas)</sup> e jogos. Depois de cursar **Modelagem 3D para Jogos e Animações** no Canadá, encontrei minha vocação na interseção entre o design e o desenvolvimento.
 
 🇬🇧 </br>
 I'm Gustavo, </br>
-I'm currently studying **Information Systems** at UniFOA - VR. My journey with technology began around age 6 or 7, sparked by a curiosity for web design (using Notepad) and gaming. After studying 3D Modeling for Games and Animations in Canada, I found my true calling at the intersection of design and development.
+I'm currently studying **Information Systems** at UniFOA - VR. My journey with technology began around age 6 or 7, sparked by a curiosity for web design <sup>(using Notepad)</sup> and gaming. After studying **3D Modeling for Animations and Games** in Canada, I found my true calling at the intersection of design and development.
 
 ## Habilidades & Ferramentas | Skills & Tools
 
